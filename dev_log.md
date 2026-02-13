@@ -5,3 +5,4 @@
 - **2026-02-09 01:11** — Add priority queue using heap
 - **2026-02-09 22:06** — Improve overall code structure
 - **2026-02-13 23:13** — Fix infinite recursion in DFS
+- **2026-02-13 23:43** — Add inline comments and documentation

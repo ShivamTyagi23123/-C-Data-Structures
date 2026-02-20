@@ -13,3 +13,4 @@
 - **2026-02-19 00:51** — Update hash table collision handling
 - **2026-02-19 22:02** — Optimize search algorithm
 - **2026-02-20 00:37** — Fix compilation warnings
+- **2026-02-21 01:39** — Fix segfault in node deletion

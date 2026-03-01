@@ -17,3 +17,4 @@
 - **2026-02-25 01:25** — Add inline comments and documentation
 - **2026-02-25 22:12** — Improve overall code structure
 - **2026-02-28 23:36** — Improve time complexity of BFS
+- **2026-03-01 23:38** — Fix segfault in node deletion

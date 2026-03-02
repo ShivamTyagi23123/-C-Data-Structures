@@ -20,3 +20,4 @@
 - **2026-03-01 23:38** — Fix segfault in node deletion
 - **2026-03-02 22:23** — Update README.md
 - **2026-03-03 00:13** — Improve time complexity of BFS
+- **2026-03-03 00:23** — Fix stack overflow handling

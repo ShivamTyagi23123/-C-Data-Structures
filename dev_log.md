@@ -24,3 +24,4 @@
 - **2026-03-03 00:31** — Fix segfault in node deletion
 - **2026-03-03 01:18** — Add insertion sort variant
 - **2026-03-06 23:04** — Improve time complexity of BFS
+- **2026-03-07 01:26** — Fix stack overflow handling

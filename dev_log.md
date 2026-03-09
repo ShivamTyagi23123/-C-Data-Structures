@@ -26,3 +26,4 @@
 - **2026-03-06 23:04** — Improve time complexity of BFS
 - **2026-03-07 01:26** — Fix stack overflow handling
 - **2026-03-08 00:53** — Add graph adjacency list
+- **2026-03-09 23:53** — Add graph adjacency list

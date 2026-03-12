@@ -29,3 +29,4 @@
 - **2026-03-09 23:53** — Add graph adjacency list
 - **2026-03-11 00:40** — Update merge sort partitioning
 - **2026-03-13 00:39** — Update circular queue wraparound
+- **2026-03-13 01:41** — Add queue enqueue and dequeue operations

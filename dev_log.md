@@ -33,3 +33,4 @@
 - **2026-03-14 00:07** — Update merge sort partitioning
 - **2026-03-14 01:04** — Add queue enqueue and dequeue operations
 - **2026-03-14 01:32** — Fix infinite recursion in DFS
+- **2026-03-16 00:25** — Fix stack overflow handling

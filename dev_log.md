@@ -34,3 +34,4 @@
 - **2026-03-14 01:04** — Add queue enqueue and dequeue operations
 - **2026-03-14 01:32** — Fix infinite recursion in DFS
 - **2026-03-16 00:25** — Fix stack overflow handling
+- **2026-03-18 22:08** — Add doubly linked list operations

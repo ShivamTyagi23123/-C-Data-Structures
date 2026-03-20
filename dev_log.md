@@ -38,3 +38,4 @@
 - **2026-03-19 00:14** — Refactor utility helper functions
 - **2026-03-19 00:55** — Add priority queue using heap
 - **2026-03-20 01:27** — Add priority queue using heap
+- **2026-03-21 00:16** — Fix memory leak in BST delete

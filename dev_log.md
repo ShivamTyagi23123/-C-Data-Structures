@@ -44,3 +44,4 @@
 - **2026-03-21 23:19** — Update circular queue wraparound
 - **2026-03-21 23:27** — Update README.md
 - **2026-03-22 22:20** — Optimize search algorithm
+- **2026-03-23 01:36** — Fix infinite recursion in DFS

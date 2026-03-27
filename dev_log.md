@@ -47,3 +47,4 @@
 - **2026-03-23 01:36** — Fix infinite recursion in DFS
 - **2026-03-26 00:13** — Fix infinite recursion in DFS
 - **2026-03-26 23:52** — Add priority queue using heap
+- **2026-03-27 23:39** — Fix stack overflow handling

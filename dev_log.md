@@ -55,3 +55,4 @@
 - **2026-03-30 23:55** — Add inline comments and documentation
 - **2026-03-31 01:40** — Clean up code formatting
 - **2026-03-31 23:16** — Clean up code formatting
+- **2026-04-01 22:45** — Refactor utility helper functions

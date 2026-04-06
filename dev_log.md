@@ -64,3 +64,4 @@
 - **2026-04-05 22:55** — Improve time complexity of BFS
 - **2026-04-06 01:50** — Add priority queue using heap
 - **2026-04-06 22:50** — Refactor utility helper functions
+- **2026-04-06 23:04** — Fix compilation warnings

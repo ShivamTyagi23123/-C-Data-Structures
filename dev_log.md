@@ -72,3 +72,4 @@
 - **2026-04-08 22:42** — Update hash table collision handling
 - **2026-04-10 00:18** — Update hash table collision handling
 - **2026-04-10 23:31** — Fix segfault in node deletion
+- **2026-04-11 00:11** — Fix stack overflow handling

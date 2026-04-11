@@ -74,3 +74,4 @@
 - **2026-04-10 23:31** — Fix segfault in node deletion
 - **2026-04-11 00:11** — Fix stack overflow handling
 - **2026-04-11 23:31** — Update merge sort partitioning
+- **2026-04-12 00:30** — Add priority queue using heap

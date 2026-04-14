@@ -76,3 +76,4 @@
 - **2026-04-11 23:31** — Update merge sort partitioning
 - **2026-04-12 00:30** — Add priority queue using heap
 - **2026-04-12 01:35** — Add inline comments and documentation
+- **2026-04-14 22:56** — Add graph adjacency list

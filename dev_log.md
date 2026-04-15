@@ -78,3 +78,4 @@
 - **2026-04-12 01:35** — Add inline comments and documentation
 - **2026-04-14 22:56** — Add graph adjacency list
 - **2026-04-14 23:55** — Fix memory leak in BST delete
+- **2026-04-16 01:01** — Update header file includes

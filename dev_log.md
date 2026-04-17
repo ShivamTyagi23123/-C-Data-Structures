@@ -81,3 +81,4 @@
 - **2026-04-16 01:01** — Update header file includes
 - **2026-04-16 23:04** — Add inline comments and documentation
 - **2026-04-17 22:30** — Update merge sort partitioning
+- **2026-04-18 01:58** — Fix segfault in node deletion

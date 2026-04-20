@@ -85,3 +85,4 @@
 - **2026-04-19 00:28** — Add doubly linked list operations
 - **2026-04-20 00:15** — Add priority queue using heap
 - **2026-04-21 00:38** — Refactor main driver program
+- **2026-04-21 01:13** — Fix compilation warnings

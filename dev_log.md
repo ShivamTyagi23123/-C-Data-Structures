@@ -92,3 +92,4 @@
 - **2026-04-21 23:00** — Update linked list implementation
 - **2026-04-21 23:10** — Fix memory leak in BST delete
 - **2026-04-24 23:15** — Fix memory leak in BST delete
+- **2026-04-26 00:09** — Fix min-heap sift down logic

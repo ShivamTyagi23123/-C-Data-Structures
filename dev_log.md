@@ -94,3 +94,4 @@
 - **2026-04-24 23:15** — Fix memory leak in BST delete
 - **2026-04-26 00:09** — Fix min-heap sift down logic
 - **2026-04-26 00:15** — Fix array index out-of-bounds
+- **2026-04-26 23:18** — Add inline comments and documentation

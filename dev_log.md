@@ -98,3 +98,4 @@
 - **2026-04-28 22:28** — Improve overall code structure
 - **2026-04-28 22:46** — Fix array index out-of-bounds
 - **2026-05-01 00:25** — Add priority queue using heap
+- **2026-05-02 23:11** — Add inline comments and documentation
